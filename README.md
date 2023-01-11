@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Multiple Choice](https://github.com/snekxsi/Wissenstests)
+- 🔭 I’m currently working on [Knowledge test as multiple choice](https://github.com/snekxsi/Wissenstests)
 
 - 🌱 I’m currently learning **Python, C# & Unity**
 
