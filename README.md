@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Multiple Choice](https://github.com/snekxsi/Wissenstests)
 
-- 🌱 I’m currently learning **Python, C# & Unity**
+- 🌱 I’m currently learning **[Python, C# & Unity]**
 
 - 🤝 I’m looking for help with **Currently nothing**
 
