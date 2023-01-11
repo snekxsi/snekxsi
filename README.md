@@ -1,7 +1,7 @@
 <h3 align="center">Just a man who learn something</h3>
 
 <p > <align="left" img src="https://komarev.com/ghpvc/?username=snekxsi&label=Profile%20views&color=a9e2a2&style=flat" alt="snekxsi"
- <a align="right" href="https://twitter.com/snekxsi" target="blank"><img src="https://img.shields.io/twitter/follow/snekxsi?logo=twitter&style=for-the-badge" alt="snekxsi" /></a>/> </p>
+ <a  href="https://twitter.com/snekxsi" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/snekxsi?logo=twitter&style=for-the-badge" alt="snekxsi" /></a>/> </p>
 
 <p align="center">  </p>
 
