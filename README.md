@@ -5,7 +5,7 @@
    <a <href="https://twitter.com/snekxsi" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/snekxsi?logo=twitter&style=for-the-badge" alt="snekxsi" />
     </a></p>
 
-<p align="center">  </p>
+<p align="center">  
 
 - 🔭 I’m currently working on [Multiple Choice](https://github.com/snekxsi/Wissenstests)
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Currently nothing**
 
-- 📫 How to reach me **@Instagram[kippenbreit]**
+- 📫 How to reach me **@Instagram[kippenbreit]** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
