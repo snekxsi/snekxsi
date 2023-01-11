@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/snekxsi" target="blank"><img src="https://img.shields.io/twitter/follow/snekxsi?logo=twitter&style=for-the-badge" alt="snekxsi" /></a> </p>
 
-- 🔭 I’m currently working on [Multiple Choice](https://github.com/snekxsi/Wissenstests)
+- 🔭 I’m currently working on |[Multiple Choice]|(https://github.com/snekxsi/Wissenstests)
 
-- 🌱 I’m currently learning **[Python, C# & Unity]**
+- 🌱 I’m currently learning **|Python, C# & Unity|**
 
-- 🤝 I’m looking for help with **Currently nothing**
+- 🤝 I’m looking for help with **|Currently nothing|**
 
-- 📫 How to reach me **@Instagram[kippenbreit]**
+- 📫 How to reach me **|@Instagram[kippenbreit]|**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
