@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Just a man who learn something</h3>
 
 - 🔭 I’m currently working on [Knowledge test as multiple choice](https://github.com/snekxsi/Wissenstests)
 
