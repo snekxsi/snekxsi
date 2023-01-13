@@ -1,4 +1,4 @@
-<h3 align="center">Just a man who learn something</h3>
+<h3 align="center">In Progress</h3>
 
 - 🔭 I’m currently working on | [Multiple Choice](https://github.com/snekxsi/Wissenstests)|
 
@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **| Currently nothing |**
 
-- 📫 How to reach me **| @Instagram[kippenbreit] |**
+- 📫 How to reach me **| @twitter[snekxsi] |**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
