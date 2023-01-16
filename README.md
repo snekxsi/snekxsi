@@ -6,11 +6,7 @@
 
 - 🤝 I’m looking for help with **| Currently nothing |**
 
-- 📫 How to reach me **| @twitter[snekxsi] |**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/snekxsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snekxsi" height="30" width="40" /></a>
+- 📫 How to reach me **| @twitter[snekxsi](https://twitter.com/snekxsi)|**
 
 
 <h3 align="left">Languages and Tools:</h3>
